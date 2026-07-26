@@ -12,6 +12,7 @@ public class BinarySearchTechnique {
         Arrays.sort(this.array);
     }
 
+    // Recursive method
     final int searchForTarget(int leftSide, int rightSide, int target) {
         if(leftSide > rightSide)
             return -1;
