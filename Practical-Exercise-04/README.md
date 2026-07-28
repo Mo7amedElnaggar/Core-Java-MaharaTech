@@ -1,0 +1,2 @@
+* Develop an application to convert temperature from Centigrade to Fahrenheit using Function<T,R>.
+* Use the interfaces in java.util.function to build an application that defines the roots of the quadratic equation (ax² + bx + c = 0), and the roots could be computed by the following formula:
